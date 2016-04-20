@@ -1,0 +1,6 @@
+C:\Source\DynamicLoadingDemo\DynamicLoadingDemo\bin\Debug\DynamicLoadingDemo.exe.config
+C:\Source\DynamicLoadingDemo\DynamicLoadingDemo\bin\Debug\DynamicLoadingDemo.exe
+C:\Source\DynamicLoadingDemo\DynamicLoadingDemo\bin\Debug\DynamicLoadingDemo.pdb
+C:\Source\DynamicLoadingDemo\DynamicLoadingDemo\obj\Debug\DynamicLoadingDemo.csprojResolveAssemblyReference.cache
+C:\Source\DynamicLoadingDemo\DynamicLoadingDemo\obj\Debug\DynamicLoadingDemo.exe
+C:\Source\DynamicLoadingDemo\DynamicLoadingDemo\obj\Debug\DynamicLoadingDemo.pdb
